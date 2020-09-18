@@ -1,0 +1,3 @@
+export CONSUMER_KEY=3MVG9JEx.BE6yifMLmZJTDkBOMC0ZGdyGlCV_atCZjrPPZscY8OCXiceVVRURvCmbxJVvdQhZRjXQXHjuzitv
+export JWT_KEY_FILE=/Users/aarevalo/Documents/VS\ Code/Salesforce/sfdx-travisci/certificates/server.crt
+export HUB_USERNAME=abimael.arevalo@tcs.com.demo
